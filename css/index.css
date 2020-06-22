@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap' rel="stylesheet")
+
+:root {
+    --main-color: black;
+}
+
+.header-logo {
+margin
+}
+
+.header-menu {
+display: flex;
+justify-content: space-around
+padding: 0;
+listing-style-type: none;
+}
+.header-menu li a {
+    text-decoration: none;
+
+}
